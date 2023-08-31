@@ -1,0 +1,61 @@
+/* Fondo de color marrón */
+body {
+    background-color: #f5b281;
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif; /* Cambia la fuente según tus preferencias */
+}
+
+/* Estilos de encabezado */
+header {
+    background-color: #603F1B;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+/* Estilos de enlaces */
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #130fdf;
+    font-weight: bold;
+}
+
+/* Estilos de sección de sitio */
+.sitio {
+    background-color: #64024c;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+h2 {
+    font-size: 24px;
+    margin-top: 0;
+}
+
+p {
+    line-height: 1.6;
+}
+
+/* Estilos de pie de página */
+footer {
+    background-color: #603F1B;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
